@@ -12,7 +12,7 @@ class Solution {
                 sum += cost[0];
                 return sum;
             }            
-            --i;
+            i--;
         }
         return sum;        
         
